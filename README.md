@@ -5,7 +5,7 @@
 
 ## 🔗 Prototype
 * **[View the Application Prototype on Figma](https://www.figma.com/proto/ov8ew5QsUsnMarFH0lfEBe/Tiny-Steps?node-id=630-226&p=f&t=aMsZaiQ4ZiWfMJT3-1&scaling=scale-down&content-scaling=fixed&page-id=603%3A2&starting-point-node-id=630%3A205)**
-* **[View the Application Demo](https://youtu.be/j6swk-E5hE?si=54B8iEFHIGWow7Z1)**
+* **[View the Application Demo](https://youtu.be/j_6swk-E5hE?si=LQ1rSqCZNXWuzXAU)**
 
 ## 💡 Key Features
 Tiny Steps offers a consolidated solution featuring:
