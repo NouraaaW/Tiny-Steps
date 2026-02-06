@@ -4,8 +4,8 @@
 **Tiny Steps** is an all-inclusive mobile application designed to assist parents in their parenting journey. The project addresses key challenges such as conflicting online advice, difficulty in disposing of outgrown equipment, and tracking child development milestones.
 
 ## 🔗 Prototype
-**[View the Application Prototype on Figma](https://www.figma.com/proto/ov8ew5QsUsnMarFH0lfEBe/Tiny-Steps?node-id=630-226&p=f&t=aMsZaiQ4ZiWfMJT3-1&scaling=scale-down&content-scaling=fixed&page-id=603%3A2&starting-point-node-id=630%3A205)**
-**[View the Application Demo](https://www.figma.com/proto/ov8ew5QsUsnMarFH0lfEBe/Tiny-Steps?node-id=630-226&p=f&t=aMsZaiQ4ZiWfMJT3-1&scaling=scale-down&content-scaling=fixed&page-id=603%3A2&starting-point-node-id=630%3A205)**
+* **[View the Application Prototype on Figma](https://www.figma.com/proto/ov8ew5QsUsnMarFH0lfEBe/Tiny-Steps?node-id=630-226&p=f&t=aMsZaiQ4ZiWfMJT3-1&scaling=scale-down&content-scaling=fixed&page-id=603%3A2&starting-point-node-id=630%3A205)**
+* **[View the Application Demo]([https://www.figma.com/proto/ov8ew5QsUsnMarFH0lfEBe/Tiny-Steps?node-id=630-226&p=f&t=aMsZaiQ4ZiWfMJT3-1&scaling=scale-down&content-scaling=fixed&page-id=603%3A2&starting-point-node-id=630%3A205](https://youtu.be/j_6swk-E5hE?si=LQ1rSqCZNXWuzXAU))**
 
 ## 🧐 Problem Statement
 Parents today face significant challenges due to:
